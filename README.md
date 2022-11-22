@@ -1,1 +1,0 @@
-# bryntum-kanban
